@@ -71,3 +71,6 @@ media.cfg
 bnupdate.tar.gz
 path.cfg
 psbbn-unattended.conf
+**/__pycache__/**
+**.pyc
+icons/**
